@@ -1,2 +1,2 @@
 FROM httpd:2.4
-COPY c03.html /usr/local/apache2/htdocs/
+COPY ./site3/c03.html /usr/local/apache2/htdocs/
